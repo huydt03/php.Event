@@ -1,0 +1,16 @@
+{
+    "name": "huydt/event",
+    "description": "php event",
+    "autoload": {
+        "psr-4": {
+            "Huydt\\Event\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "drhuy",
+            "email": "huydt0307@gmail.com"
+        }
+    ],
+    "require": {}
+}
